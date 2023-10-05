@@ -54,3 +54,4 @@ dkms.conf
 # Others
 *.AppImage
 test
+ninbox
